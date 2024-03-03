@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.pnp/
+.pnp.js
+
+# Build output
+build/
+dist/
+
+# Cache
+.cache/
+.eslintcache
+.env
